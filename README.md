@@ -1,3 +1,3 @@
 # Demo
 
-A repository for using github
+A repository for learning to use github
